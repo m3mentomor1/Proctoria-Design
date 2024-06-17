@@ -13,4 +13,9 @@ This repo contains design mockups for a project called **Proctoria**, an AI-powe
 
 ### 👀 II. Preview
 
-#### ✅ Splash Screen
+#### ✅ User Authentication
+
+![User Authentication](https://github.com/m3mentomor1/Proctoria-Design/assets/95956735/2749a69a-6cda-45b8-a5d3-7a5decabc36a)
+<br><br><br>
+
+#### ✅ Exam Code Authentication
