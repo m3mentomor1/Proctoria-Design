@@ -35,6 +35,7 @@ This repo contains design mockups for a project called **Proctoria**, an AI-powe
 
 #### ✅ Exam Navigation
 
+![Exam Nav](https://github.com/m3mentomor1/Proctoria-Design/assets/95956735/7b102f54-faba-487f-99de-0ffaca2cbee2)
 <br><br><br>
 
 Figma Link/s: 
