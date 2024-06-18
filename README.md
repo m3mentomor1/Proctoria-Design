@@ -25,6 +25,7 @@ This repo contains design mockups for a project called **Proctoria**, an AI-powe
 
 #### ✅ System Testing
 
+![System Check](https://github.com/m3mentomor1/Proctoria-Design/assets/95956735/797c3a4b-336c-4e0a-bdca-eea5780b42f5)
 <br><br><br>
 
 #### ✅ Examinee Identity Verification
