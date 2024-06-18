@@ -11,7 +11,7 @@ This repo contains design mockups for a project called **Proctoria**, an AI-powe
 
 **Proctoria** is a hackathon project that won a *2nd Place* award in the *International Symposium on Education and AI Convergence (ISEAC) 2023* at the University of the Philippines Open University (UPOU), Los Baños, Laguna.
 
-View full project [*here*]().
+View full project [here]().
 <br><br>
 ##
 
