@@ -9,7 +9,7 @@
 
 This repo contains design mockups for a project called **Proctoria**, an AI-powered desktop app for proctoring & administering online exams, including preventing & detecting instances of cheating.
 
-Proctoria is a hackathon project that won a 2nd Place award in the International Symposium on Education and AI Convergence (ISEAC) 2023 at the University of the Philippines Open University (UPOU), Los Baños, Laguna.
+**Proctoria** is a hackathon project that won a 2nd Place award in the International Symposium on Education and AI Convergence (ISEAC) 2023 at the University of the Philippines Open University (UPOU), Los Baños, Laguna.
 <br><br>
 ##
 
