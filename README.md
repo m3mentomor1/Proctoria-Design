@@ -20,7 +20,7 @@ This repo contains design mockups for a project called **Proctoria**, an AI-powe
 
 #### ✅ Exam Code Authentication
 
-![Exam Code Auth](https://github.com/m3mentomor1/Proctoria-Design/assets/95956735/4abeba49-f402-422c-9446-3232a8176283)
+![Exam Code Auth](https://github.com/m3mentomor1/Proctoria-Design/assets/95956735/ba7e6572-c507-49fd-932d-2293234a73d9)
 <br><br><br>
 
 #### ✅ System Testing
