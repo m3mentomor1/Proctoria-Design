@@ -38,7 +38,7 @@ This repo contains design mockups for a project called **Proctoria**, an AI-powe
 
 Figma Link/s: 
 - [Design View](https://www.figma.com/design/LVlXvapdXBiRD3BskzSDh5/Proctoria?node-id=0-1&t=kwSC5lnL8CM9ffoz-1)
-- [Prototype View (Screen & Button Navigation)](https://www.figma.com/proto/LVlXvapdXBiRD3BskzSDh5/Proctoria?node-id=1-721&t=UgfWEaQcUZWYsdRb-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A444)
+- [Prototype View (Screen & Button Navigation)](https://www.figma.com/proto/LVlXvapdXBiRD3BskzSDh5/Proctoria?node-id=1-444&t=V01getr5BToyZiEI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A444)
 <br><br>
 ##
 
